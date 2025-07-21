@@ -1,0 +1,40 @@
+const random = @import("random.zig");
+
+const MAX_RANGE = 1.0;
+const MIN_RANGE = 0.0;
+const ULTRA_RARE_RATE = 0.05;
+const SUPER_RARE_RATE = 0.15;
+const RARE_RATE = 0.35;
+const COMMON_RATE = 0.9;
+
+pub const RARITY = enum(u3) {
+    ULTRA_RARE = 4,
+    SUPER_RARE = 3,
+    RARE = 2,
+    COMMON = 1,
+    RUST = 0,
+
+    pub fn gacha() @This() {
+        const number = random.random(f32);
+        if (ULTRA_RARE_RATE > number) return .ULTRA_RARE;
+        if (SUPER_RARE_RATE > number) return .SUPER_RARE;
+        if (RARE_RATE > number) return .RARE;
+        if (COMMON_RATE > number) return .COMMON;
+        return .RUST;
+    }
+
+    pub fn float(self: *const @This()) f32 {
+        const int: u3 = @intFromEnum(self.*);
+        return @floatFromInt(int);
+    }
+
+    pub fn display(self: *const @This()) []const u8 {
+        return switch (self.*) {
+            .ULTRA_RARE =>  "Ultra Rare",
+            .SUPER_RARE =>  "Super Rare",
+            .RARE       =>  "Rare",
+            .COMMON     =>  "Common",
+            .RUST       =>  "Rusty"
+        };
+    }
+};
