@@ -10,11 +10,12 @@ pub fn seededRNG() std.Random.Xoroshiro128 {
 pub fn random(T: type) T {
     var rng = seededRNG();
     const info = @typeInfo(T);
-    switch (info) {
-        .float => return std.Random.float(rng.random(), T),
-        .int => return std.Random.int(rng.random(), T),
+    return switch (info) {
+        .float => std.Random.float(rng.random(), T),
+        .int => std.Random.int(rng.random(), T),
+        .@"enum" => std.Random.enumValue(rng.random(), T),
         else => @compileError("Must be float or int")
-    }
+    };
 }
 
 pub fn range(T: type, low: T, high: T) T {

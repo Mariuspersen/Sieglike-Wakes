@@ -2,22 +2,13 @@ const Self = @This();
 const random = @import("random.zig");
 const common = @import("common.zig");
 
-const display_name_for_number_of_guns = [_][]const u8{ "Single", "Double", "Triple", "Quadruple", "Quintuple", "Sextuple", "Septuple", "Octuple" };
-
 const BARREL_T = u2;
+const ONEMORE_T = common.oneMoreThan(BARREL_T);
 const CALIBER_T = u6;
 const BORE_T = u8;
 const ACC_T = f32;
-
-pub fn oneMoreThan(T: type) type {
-    const builtin = @import("std").builtin;
-    const info = @typeInfo(T);
-    const newT = builtin.Type{ .int = .{
-        .bits = info.int.bits + 1,
-        .signedness = info.int.signedness,
-    } };
-    return @Type(newT);
-}
+const DMG_T = common.DMG_T;
+const WEIGHT_T = common.WEIGHT_T;
 
 barrels: BARREL_T,
 caliber: CALIBER_T,
@@ -35,9 +26,9 @@ pub fn gacha() Self {
     };
 }
 
-pub fn damage(self: *const Self) u32 {
-    var total: u32 = 0;
-    var rolls: oneMoreThan(BARREL_T) = self.barrels;
+pub fn damage(self: *const Self) DMG_T {
+    var total: DMG_T = 0;
+    var rolls: ONEMORE_T = self.barrels;
     rolls += 1;
     for (0..rolls) |_| {
         const hit_roll = random.range(ACC_T, 0.0, 100.0);
@@ -49,6 +40,8 @@ pub fn damage(self: *const Self) u32 {
     return total;
 }
 
+
+
 pub fn display(self: *const Self, writer: anytype) !void {
-    try writer.print("{s} {d}mm/{d} Caliber {s} Turret", .{ self.rarity.display(), self.bore, self.caliber, display_name_for_number_of_guns[self.barrels] });
+    try writer.print("{s} {d}mm/{d} Caliber {s} Turret", .{ self.rarity.display(), self.bore, self.caliber, common.TUPLET_NAMING[self.barrels] });
 }

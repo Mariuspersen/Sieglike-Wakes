@@ -1,5 +1,20 @@
 const random = @import("random.zig");
 
+pub const DMG_T = u32;
+pub const WEIGHT_T = u32;
+
+
+pub const TUPLET_NAMING = [_][]const u8{
+    "Single",
+    "Double",
+    "Triple",
+    "Quadruple",
+    "Quintuple",
+    "Sextuple",
+    "Septuple",
+    "Octuple",
+};
+
 const MAX_RANGE = 1.0;
 const MIN_RANGE = 0.0;
 const ULTRA_RARE_RATE = 0.05;
@@ -38,3 +53,13 @@ pub const RARITY = enum(u3) {
         };
     }
 };
+
+pub fn oneMoreThan(T: type) type {
+    const builtin = @import("std").builtin;
+    const info = @typeInfo(T);
+    const newT = builtin.Type{ .int = .{
+        .bits = info.int.bits + 1,
+        .signedness = info.int.signedness,
+    } };
+    return @Type(newT);
+}
