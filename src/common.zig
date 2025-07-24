@@ -63,3 +63,13 @@ pub fn oneMoreThan(T: type) type {
     } };
     return @Type(newT);
 }
+
+pub fn doubleType(T: type) type {
+    const builtin = @import("std").builtin;
+    const info = @typeInfo(T);
+    const newT = builtin.Type{ .int = .{
+        .bits = info.int.bits * 2,
+        .signedness = info.int.signedness,
+    } };
+    return @Type(newT);
+}

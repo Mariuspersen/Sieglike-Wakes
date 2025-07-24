@@ -9,7 +9,7 @@ pub fn main() !void {
     const stdout = std.io.getStdOut().writer();
     const new_turret = turret.gacha();
     try new_turret.display(stdout);
-    try stdout.print("\tDamage: {d}", .{new_turret.damage()});
-    _ = ship.gacha();
-
+    try stdout.print("\tDamage: {d}\n", .{new_turret.damage()});
+    const new_ship = ship.gacha();
+    try new_ship.display(stdout);
 }
