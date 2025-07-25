@@ -34,7 +34,11 @@ pub fn init(filename: []const u8) !Self {
                 for (result.value_ptr) |*value| {
                     switch (value.*) {
                         .none => {},
-                        .entry => {},
+                        .entry => {
+                            if (std.mem.eql(u8, next, value.entry.word)) {
+                                value.entry.frequency += 1;
+                            }
+                        },
                     }
                 }
             } else {
