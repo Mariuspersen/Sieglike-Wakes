@@ -22,6 +22,9 @@ const HP_T = DMG_T;
 const WEIGHT_T = common.WEIGHT_T;
 const SIZE_T = u6;
 const DOUBLESIZE_T = common.doubleType(SIZE_T);
+const BEAM_RATIO = 0.12;
+const DRAFT_RATIO = 0.045;
+
 
 const Class = struct {
     short: []const u8,
@@ -62,13 +65,13 @@ pub fn weight(length: u32) WEIGHT_T {
 
 pub fn beam(length: u32) u32 {
     const fLength: f32 = @floatFromInt(length);
-    const result: f32 = fLength * 0.12;
+    const result: f32 = fLength * BEAM_RATIO;
     return @intFromFloat(result);
 }
 
 pub fn draft(length: u32) u32 {
     const fLength: f32 = @floatFromInt(length);
-    const result: f32 = fLength * 0.045;
+    const result: f32 = fLength * DRAFT_RATIO;
     return @intFromFloat(result);
 }
 
@@ -81,7 +84,7 @@ pub fn gacha() Self {
     const limit = random.random(u10);
     for (0..limit) |_| _ = split.next();
     return .{
-        .name = split.next() orelse "NwuhULL",
+        .name = split.next() orelse "NULL",
         .class = class,
         .armour = armor,
         .equipment = [1]Equipment{ Equipment.empty() } ** EQUIP_MAX_LEN,

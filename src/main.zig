@@ -12,4 +12,5 @@ pub fn main() !void {
     try stdout.print("\tDamage: {d}\n", .{new_turret.damage()});
     const new_ship = ship.gacha();
     try new_ship.display(stdout);
+    try stdout.print("{any}", .{new_ship});
 }

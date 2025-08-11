@@ -3,11 +3,11 @@ Agano
 Aoba
 Ashigara
 Atago
-Chikuma (1938)
+Chikuma
 Chōkai
 Furutaka
 Haguro
-Ibuki (1943)
+Ibuki
 Ioshima
 Isuzu
 Iwate
@@ -25,7 +25,7 @@ Kuma
 Kumano
 Maya
 Mikuma
-Mogami (1934)
+Mogami
 Myōkō
 Nachi
 Nagara
@@ -34,1462 +34,1455 @@ Natori
 Noshiro
 Ōi
 Ōyodo
-Chinese Ping Hai
+Chinese
 Sakawa
 Sendai
-Suzuya (1934)
-Takao (1930)
+Suzuya
+Takao
 Tama
-Tatsuta (1918)
+Tatsuta
 Tenryū
-Tone (1937)
-Yahagi (1942)
+Tone
+Yahagi
 Yakumo
 Yasoshima
 Yūbari
 Yura
-Akatsuki (1932)
-Akebono (1930)
-Akigumo (1941)
+Akatsuki
+Akebono
+Akigumo
 Akikaze
 Akishimo
-Akizuki (1941)
-Amagiri (1930)
-Amatsukaze (1939)
-Arare (1937)
+Akizuki
+Amagiri
+Amatsukaze
+Arare
 Arashi
 Arashio
-Ariake (1934)
-Asagiri (1929)
-Asagumo (1937)
-Asakaze (1922)
+Ariake
+Asagiri
+Asagumo
+Asakaze
 Asanagi
 Asashimo
-Asashio (1936)
-Ayanami (1929)
-Enoki (1945)
-Fubuki (1927)
+Asashio
+Ayanami
+Enoki
+Fubuki
 Fujinami
-Fumizuki (1926)
+Fumizuki
 Fuyutsuki
-Hagi (1944)
+Hagi
 Hagikaze
 Hakaze
-Hamakaze (1940)
+Hamakaze
 Hamanami
 Hanazuki
-Harukaze (1922)
-Harusame (1935)
+Harukaze
+Harusame
 Harutsuki
-Hatakaze (1924)
-Hatsuharu (1933)
+Hatakaze
+Hatsuharu
 Hatsukaze
-Hatsushimo (1933)
+Hatsushimo
 Hatsuume
-Hatsuyuki (1928)
+Hatsuyuki
 Hatsuzakura
 Hatsuzuki
 Hayanami
 Hayashimo
 Hayashio
-Hayate (1925)
-Hibiki (1932)
-Hinoki (1944)
+Hayate
+Hibiki
+Hinoki
 Hokaze
-Ikazuchi (1931)
-Inazuma (1932)
-Isokaze (1939)
-Isonami (1927)
-Kaba (1945)
-Kaede (1944)
-Kagerō (1938)
-Kaki (1944)
-Kamikaze (1922)
+Ikazuchi
+Inazuma
+Isokaze
+Isonami
+Kaba
+Kaede
+Kagerō
+Kaki
+Kamikaze
 Karukaya
-Kashi (1916)
-Kasumi (1937)
-Kawakaze (1936)
-Kashi (1944)
-Kaya (1944)
+Kashi
+Kasumi
+Kawakaze
+Kashi
+Kaya
 Kazagumo
-Keyaki (1944)
-Kikuzuki (1926)
-Kiri (1944)
-Kisaragi (1925)
+Keyaki
+Kikuzuki
+Kiri
+Kisaragi
 Kishinami
 Kiyonami
 Kiyoshimo
 Kuroshio
-Kusunoki (1945)
-Kuwa (1944)
+Kusunoki
+Kuwa
 Maikaze
-Maki (1944)
-Makigumo (1941)
-Makinami (1941)
-Matsu (1944)
-Matsukaze (1923)
+Maki
+Makigumo
+Makinami
+Matsu
+Matsukaze
 Michishio
-Mikazuki (1926)
-Minazuki (1926)
-Minegumo (1937)
+Mikazuki
+Minazuki
+Minegumo
 Minekaze
-
-Mochizuki (1927)
-Momi (1944)
-
-Momo (1944)
-Murakumo (1928)
-Murasame (1935)
+Mochizuki
+Momi
+Momo
+Murakumo
+Murasame
 Mutsuki
-
 Nadakaze
 Naganami
-Nagatsuki (1926)
+Nagatsuki
 Namikaze
-Nara (1944)
-Natsugumo (1937)
+Nara
+Natsugumo
 Natsushio
 Natsuzuki
-Nenohi (1932)
+Nenohi
 Niizuki
-Nire (1944)
+Nire
 Nokaze
 Numakaze
-Nowaki (1940)
-Oboro (1930)
+Nowaki
+Oboro
 Odake
-Oite (1924)
+Oite
 Okikaze
 Okinami
-Ōnami (1942)
+Ōnami
 Ōshio
 Oyashio
 Sagiri
-Sakura (1944)
-Samidare (1935)
-Satsuki (1925)
-Sawakaze (1919)
-Sazanami (1931)
-Shigure (1935)
+Sakura
+Samidare
+Satsuki
+Sawakaze
+Sazanami
+Shigure
 Shii
-Shikinami (1929)
-Shimakaze (1920)
-Shimakaze (1942)
+Shikinami
+Shimakaze
+Shimakaze
 Shimotsuki
-Shinonome (1927)
+Shinonome
 Shiokaze
-Shirakumo (1927)
-Shiranui (1938)
-Shiratsuyu (1935)
-Shirayuki (1928)
-Sugi (1944)
-Sumire (1944)
+Shirakumo
+Shiranui
+Shiratsuyu
+Shirayuki
+Sugi
+Sumire
 Suzukaze
-Suzunami (1943)
-Suzutsuki (1942)
-Tachikaze (1921)
-Takanami (1942)
-Take (1944)
+Suzunami
+Suzutsuki
+Tachikaze
+Takanami
+Take
 Tamanami
-Tanikaze (1940)
-Teruzuki (1941)
-Tokitsukaze (1939)
-Tsubaki (1944)
-Tsuta (1944)
-Ume (1944)
-Umikaze (1936)
-Urakaze (1940)
-Uranami (1928)
-Ushio (1930)
-Usugumo (1927)
-Uzuki (1925)
-Wakaba (1934)
+Tanikaze
+Teruzuki
+Tokitsukaze
+Tsubaki
+Tsuta
+Ume
+Umikaze
+Urakaze
+Uranami
+Ushio
+Usugumo
+Uzuki
+Wakaba
 Wakatsuki
 Yakaze
-Yamagumo (1937)
-Yamakaze (1936)
-Yanagi (1944)
-Yayoi (1925)
+Yamagumo
+Yamakaze
+Yanagi
+Yayoi
 Yoizuki
-Yūdachi (1936)
-Yūgiri (1930)
-Yūgumo (1941)
-Yūgure (1934)
+Yūdachi
+Yūgiri
+Yūgumo
+Yūgure
 Yūkaze
-Yukikaze (1939)
-Yūnagi (1924)
+Yukikaze
+Yūnagi
 Yūzuki
 Eidsvold
-Harald Haarfagre
+Harald
 Norge
 Tordenskjold
-Æger (1936)
+Æger
 Badsworth
-Bath (I17)
-Draug (1908)
-Evans (DD-78)
-Garm (1913)
-Gyller (1938)
-Hopewell (DD-181)
-Lincoln (G42)
-Mansfield (G76)
-Newport (G54)
-Odin (1939)
-Sigourney (DD-81)
-Sleipner (1936)
-St. Albans (I15)
-Stord (G26)
-Svenner (G03)
-Thomas (DD-182)
-Tor (1939)
-Troll (1910)
-Yarnall (DD-143)
-Gävle (J9)
-Göteborg (J5)
-Karlskrona (J8)
-Magne (30)
-Malmö (J7)
+Bath
+Draug
+Evans
+Garm
+Gyller
+Hopewell
+Lincoln
+Mansfield
+Newport
+Odin
+Sigourney
+Sleipner
+St.
+Stord
+Svenner
+Thomas
+Tor
+Troll
+Yarnall
+Gävle
+Göteborg
+Karlskrona
+Magne
+Malmö
 Manligheten
-Mjölner (32)
-Mode (29)
-Munin (31)
-Norrköping (J10)
-Oscar II
-Stockholm (J6)
+Mjölner
+Mode
+Munin
+Norrköping
+Oscar
+Stockholm
 Sverige
-Tapperheten (1901)
-Andrea Doria
+Tapperheten
+Andrea
 Duilio
-Conte di Cavour
-Giulio Cesare
+Conte
+Giulio
 Littorio
-Roma (1940)
-Vittorio Veneto
-Alberico da Barbiano
-Alberto di Giussano
-Armando Diaz
+Roma
+Vittorio
+Alberico
+Alberto
+Armando
 Bari
-Bartolomeo Colleoni
+Bartolomeo
 Bolzano
 Cattaro
-French Châteaurenault (D 606)
-Luigi di Savoia Duca degli Abruzzi
-Emanuele Filiberto Duca d'Aosta
-Eugenio di Savoia
+French
+Luigi
+Emanuele
+Eugenio
 Fiume
-FR 11
-FR 12
-Giovanni delle Bande Nere
-Giuseppe Garibaldi (1936)
+FR
+FR
+Giovanni
+Giuseppe
 Gorizia
-Luigi Cadorna
-Muzio Attendolo
-SMS Pillau
+Luigi
+Muzio
+SMS
 Pola
-Raimondo Montecuccoli
-auxiliary Ramb I
-auxiliary Ramb II
-Scipione Africano
+Raimondo
+auxiliary
+auxiliary
+Scipione
 Taranto
 Trento
 Trieste
 Zara
-Alfredo Oriani
-Alpino (1938)
-Alvise da Mosto
-Antonio da Noli
-Antonio Pigafetta
-Antoniotto Usodimare
-Aquilone (1927)
-Artigliere (1937)
+Alfredo
+Alpino
+Alvise
+Antonio
+Antonio
+Antoniotto
+Aquilone
+Artigliere
 Ascari
-Audace (1916)
-Augusto Riboty
-Aviere (1937)
+Audace
+Augusto
+Aviere
 Baleno
-Bersagliere (1938)
+Bersagliere
 Bombardiere
-Borea (1927)
-Camicia Nera
-Carabiniere (1938)
-Carlo Mirabello
-Cesare Battisti
-Corazziere (1938)
+Borea
+Camicia
+Carabiniere
+Carlo
+Cesare
+Corazziere
 Corsaro
-Daniele Manin
-Dardo (1930)
-Yugoslav Dubrovnik
-Emanuele Pessagno
-Espero (1927)
-Euro (1927)
+Daniele
+Dardo
+Yugoslav
+Emanuele
+Espero
+Euro
 Folgore
-Francesco Crispi
-Francesco Nullo (1925)
-Freccia (1930)
-Fuciliere (1938)
-Fulmine (1931)
-Geniere (1938)
-Giosuè Carducci
-Giovanni da Verrazzano
-Granatiere (1938)
+Francesco
+Francesco
+Freccia
+Fuciliere
+Fulmine
+Geniere
+Giosuè
+Giovanni
+Granatiere
 Grecale
-Lampo (1931)
-Lanciere (1938)
-Lanzerotto Malocello
+Lampo
+Lanciere
+Lanzerotto
 Legionario
 Leone
-Leone Pancaldo
+Leone
 Libeccio
-Luca Tarigo
+Luca
 Maestrale
 Mitragliere
-Nazario Sauro
-Nembo (1927)
-Nicolò Zeno
-Nicoloso da Recco
-Ostro (1928)
+Nazario
+Nembo
+Nicolò
+Nicoloso
+Ostro
 Pantera
-French Panthère
+French
 Premuda
-Quintino Sella
+Quintino
 Saetta
 Scirocco
 Spalato
-Strale (1931)
-French Tigre
+Strale
+French
 Tigre
-Turbine (1927)
-Ugolino Vivaldi
+Turbine
+Ugolino
 Velite
-Vincenzo Gioberti
-Vittorio Alfieri
-Zeffiro (1927)
-Aaron Ward (DD-483)
-Aaron Ward (DM-34)
-Abbot (DD-629)
-Abner Read (DD-526)
-Abner Read (DD-769)
-Adams (DM-27)
-Albert W. Grant
+Vincenzo
+Vittorio
+Zeffiro
+Aaron
+Aaron
+Abbot
+Abner
+Abner
+Adams
+Albert
 Alden
-Alfred A. Cunningham
-Allen (DD-66)
-Allen M. Sumner
-Ammen (DD-527)
+Alfred
+Allen
+Allen
+Ammen
 Anderson
-Anthony (DD-515)
-Aulick (DD-569)
+Anthony
+Aulick
 Ault
-Aylwin (DD-355)
+Aylwin
 Babbitt
-Bache (DD-470)
-Badger (DD-126)
-Bagley (DD-386)
-Bailey (DD-492)
-Bainbridge (DD-246)
-Balch (DD-363)
+Bache
+Badger
+Bagley
+Bailey
+Bainbridge
+Balch
 Baldwin
-Bancroft (DD-598)
+Bancroft
 Barker
-Barney (DD-149)
-Barry (DD-248)
-Barton (DD-599)
-Barton (DD-722)
-Beale (DD-471)
+Barney
+Barry
+Barton
+Barton
+Beale
 Bearss
-Beatty (DD-640)
-Belknap (DD-251)
-Bell (DD-587)
-Benham (DD-397)
-Benham (DD-796)
-Benner (DD-807)
+Beatty
+Belknap
+Bell
+Benham
+Benham
+Benner
 Bennett
 Bennion
 Benson
 Bernadou
-Biddle (DD-151)
+Biddle
 Black
 Blakeley
-Blue (DD-387)
-Blue (DD-744)
+Blue
+Blue
 Bordelon
-Borie (DD-215)
-Borie (DD-704)
+Borie
+Borie
 Boyd
 Boyle
 Bradford
 Braine
 Breckinridge
-Bristol (DD-453)
-Bristol (DD-857)
+Bristol
+Bristol
 Brooks
 Broome
-Brown (DD-546)
-Brownson (DD-518)
+Brown
+Brownson
 Brush
 Bryant
-Buchanan (DD-484)
-Buck (DD-420)
+Buchanan
+Buck
 Bullard
 Bulmer
-Burns (DD-588)
-Bush (DD-529)
+Burns
+Bush
 Butler
-Caldwell (DD-605)
-Callaghan (DD-792)
+Caldwell
+Callaghan
 Caperton
 Capps
 Carmick
-Case (DD-370)
-Cassin (DD-372)
-Cassin Young
-Champlin (DD-601)
-Charles Ausburne (DD-570)
-Charles F. Hughes
-Charles J. Badger
-Charles P. Cecil
-Charles R. Ware (DD-865)
-Charles S. Sperry
+Case
+Cassin
+Cassin
+Champlin
+Charles
+Charles
+Charles
+Charles
+Charles
+Charles
 Charrette
-Chauncey (DD-667)
-Chevalier (DD-451)
-Chevalier (DD-805)
+Chauncey
+Chevalier
+Chevalier
 Chew
-Clarence K. Bronson
-Clark (DD-361)
-Claxton (DD-571)
-Clemson (DD-186)
-Coghlan (DD-606)
+Clarence
+Clark
+Claxton
+Clemson
+Coghlan
 Cogswell
 Colahan
-Cole (DD-155)
-Colhoun (DD-801)
+Cole
+Colhoun
 Collett
 Compton
-Conner (DD-582)
-Converse (DD-509)
-Conway (DD-507)
+Conner
+Converse
+Conway
 Cony
-Conyngham (DD-371)
+Conyngham
 Cooper
-Corry (DD-463)
-Corry (DD-817)
+Corry
+Corry
 Cotten
-Cowell (DD-547)
+Cowell
 Cowie
 Crane
-Craven (DD-382)
+Craven
 Crosby
-Cummings (DD-365)
-Cushing (DD-376)
-Cushing (DD-797)
-Dahlgren (DD-187)
-Dale (DD-353)
-Dallas (DD-199)
+Cummings
+Cushing
+Cushing
+Dahlgren
+Dale
+Dallas
 Daly
 Dashiell
-David W. Taylor
-Davis (DD-395)
+David
+Davis
 Davison
-De Haven (DD-469)
-De Haven (DD-727)
-Decatur (DD-341)
-Dennis J. Buckley (DD-808)
+De
+De
+Decatur
+Dennis
 Dent
-Dewey (DD-349)
+Dewey
 Dickerson
-Doran (DD-634)
+Doran
 Dortch
-Douglas H. Fox
-Downes (DD-375)
-Doyle (DMS-34)
-Drayton (DD-366)
+Douglas
+Downes
+Doyle
+Drayton
 Drexler
-Du Pont (DD-152)
-Duncan (DD-485)
-Duncan (DD-874)
+Du
+Duncan
+Duncan
 Dunlap
 Dyess
 Dyson
 Earle
 Eaton
 Eberle
-Edison (DD-439)
-Edsall (DD-219)
-Edwards (DD-619)
+Edison
+Edsall
+Edwards
 Ellet
-Ellis (DD-154)
+Ellis
 Ellyson
 Emmons
 Endicott
 English
 Erben
-Ericsson (DD-440)
-Eugene A. Greene
-Evans (DD-552)
-Everett F. Larson (DD-830)
-Fanning (DD-385)
-Farenholt (DD-491)
-Farragut (DD-348)
+Ericsson
+Eugene
+Evans
+Everett
+Fanning
+Farenholt
+Farragut
 Fitch
-Fletcher (DD-445)
-Floyd B. Parks
-Flusser (DD-368)
-Foote (DD-511)
+Fletcher
+Floyd
+Flusser
+Foote
 Forrest
-Fox (DD-234)
-Frank E. Evans
-Frank Knox
+Fox
+Frank
+Frank
 Frankford
 Franks
 Frazier
-Fred T. Berry
+Fred
 Fullam
 Furse
 Gainard
 Gansevoort
 Gatling
 Gearing
-George E. Badger
-George K. MacKenzie
+George
+George
 Gherardi
 Gillespie
-Gilmer (DD-233)
+Gilmer
 Gleaves
-Glennon (DD-620)
+Glennon
 Goff
-Goldsborough (DD-188)
+Goldsborough
 Goodrich
 Grayson
 Greer
-Gregory (DD-802)
-Gridley (DD-380)
+Gregory
+Gridley
 Guest
 Gurke
-Gwin (DD-433)
+Gwin
 Gyatt
 Haggard
 Hailey
-Hale (DD-642)
+Hale
 Halford
-Hall (DD-583)
+Hall
 Halligan
-Halsey Powell
+Halsey
 Hambleton
-Hammann (DD-412)
+Hammann
 Hank
 Hanson
-Haraden (DD-585)
-Harding (DD-625)
-Harlan R. Dickson
-Harold J. Ellison (DD-864)
-Harrison (DD-573)
-Harry E. Hubbard
-Hart (DD-594)
+Haraden
+Harding
+Harlan
+Harold
+Harrison
+Harry
+Hart
 Hatfield
 Hawkins
 Haynsworth
-Hazelwood (DD-531)
+Hazelwood
 Healy
 Heermann
 Helm
-Henderson (DD-785)
-Henley (DD-391)
-Henry W. Tucker
+Henderson
+Henley
+Henry
 Henshaw
 Herbert
-Herbert J. Thomas
-Herndon (DD-638)
-Heywood L. Edwards
+Herbert
+Herndon
+Heywood
 Hickox
 Higbee
-Hilary P. Jones
+Hilary
 Hobby
 Hobson
-Hoel (DD-533)
-Hoel (DD-768)
+Hoel
+Hoel
 Hollister
-Hopewell (DD-681)
+Hopewell
 Howorth
-Hudson (DD-475)
-Hugh Purvis
-Hugh W. Hadley
+Hudson
+Hugh
+Hugh
 Hughes
 Hulbert
-Hull (DD-350)
+Hull
 Humphreys
-Hunt (DD-674)
+Hunt
 Hutchins
 Hyman
-Ingersoll (DD-652)
-Ingraham (DD-444)
-Ingraham (DD-694)
+Ingersoll
+Ingraham
+Ingraham
 Irwin
-Isherwood (DD-520)
+Isherwood
 Izard
-J. Fred Talbott
-Jacob Jones (DD-130)
-James C. Owens
-James E. Kyes
-Jarvis (DD-393)
-Jarvis (DD-799)
+J.
+Jacob
+James
+James
+Jarvis
+Jarvis
 Jeffers
-Jenkins (DD-447)
-John A. Bole
-
-John D. Edwards
-John D. Ford
-John D. Henley
-John Hood
-John R. Pierce
-John Rodgers (DD-574)
-John W. Weeks
-Johnston (DD-557)
-Johnston (DD-821)
-Jouett (DD-396)
-Kalk (DD-611)
-Kane (DD-235)
+Jenkins
+John
+John
+John
+John
+John
+John
+John
+John
+Johnston
+Johnston
+Jouett
+Kalk
+Kane
 Kearny
 Kendrick
-Kenneth D. Bailey
+Kenneth
 Kennison
-Kidd (DD-661)
+Kidd
 Killen
 Kilty
-Kimberly (DD-521)
-King (DD-242)
+Kimberly
+King
 Knapp
 Knight
-La Vallette (DD-448)
-Laffey (DD-459)
-Laffey (DD-724)
-Lamson (DD-367)
-Lang (DD-399)
-Lansdale (DD-426)
+La
+Laffey
+Laffey
+Lamson
+Lang
+Lansdale
 Lansdowne
-Lardner (DD-487)
-Laub (DD-613)
-Lawrence (DD-250)
+Lardner
+Laub
+Lawrence
 Laws
 Lea
-Leary (DD-158)
-Leary (DD-879)
-Leonard F. Mason
+Leary
+Leary
+Leonard
 Leutze
-Lewis Hancock
+Lewis
 Litchfield
-Little (DD-803)
-Livermore (DD-429)
-Lloyd Thomas (DD-764)
+Little
+Livermore
+Lloyd
 Lofberg
 Longshaw
 Lowry
-Luce (DD-522)
-Ludlow (DD-438)
-Lyman K. Swenson
-Macdonough (DD-351)
-MacKenzie (DD-614)
+Luce
+Ludlow
+Lyman
+Macdonough
+MacKenzie
 MacLeish
 Macomb
-Maddox (DD-622)
-Maddox (DD-731)
-Madison (DD-425)
-Mahan (DD-364)
-Mannert L. Abele
+Maddox
+Maddox
+Madison
+Mahan
+Mannert
 Mansfield
 Marshall
 Massey
-Maury (DD-401)
+Maury
 Mayo
-Mayrant (DD-402)
+Mayrant
 McCaffery
-McCall (DD-400)
-McCalla (DD-488)
-McCook (DD-496)
+McCall
+McCalla
+McCook
 McCord
 McCormick
-McDermut (DD-677)
-McDougal (DD-358)
+McDermut
+McDougal
 McFarland
 McGowan
-McKean (DD-784)
-McKee (DD-575)
-McLanahan (DD-615)
+McKean
+McKee
+McLanahan
 McNair
-Meade (DD-602)
-Melvin (DD-680)
-Meredith (DD-434)
-Meredith (DD-726)
+Meade
+Melvin
+Meredith
+Meredith
 Mertz
-Mervine (DD-489)
+Mervine
 Metcalf
-Miller (DD-535)
+Miller
 Moale
 Moffett
-Monaghan (DD-354)
-Monssen (DD-436)
-Monssen (DD-798)
-Morris (DD-417)
+Monaghan
+Monssen
+Monssen
+Morris
 Morrison
-Mugford (DD-389)
-Mullany (DD-528)
-Murphy (DD-603)
-Murray (DD-576)
-Mustin (DD-413)
-Myles C. Fox (DD-829)
+Mugford
+Mullany
+Murphy
+Murray
+Mustin
+Myles
 Nelson
 Newcomb
-Newman K. Perry
+Newman
 Niblack
-Nicholas (DD-449)
-Nicholson (DD-442)
+Nicholas
+Nicholson
 Nields
-Noa (DD-343)
-Noa (DD-841)
-Norman Scott
+Noa
+Noa
+Norman
 Norris
-O'Brien (DD-415)
-O'Bannon (DD-450)
-O'Brien (DD-725)
+O'Brien
+O'Bannon
+O'Brien
 O'Hare
 Ordronaux
-Osmond Ingram
+Osmond
 Overton
 Owen
-Parker (DD-604)
+Parker
 Parrott
-Patterson (DD-392)
-Paul Hamilton (DD-590)
-Paul Jones (DD-230)
+Patterson
+Paul
+Paul
 Peary
-Perkins (DD-377)
-Perkins (DD-877)
+Perkins
+Perkins
 Phelps
-Philip (DD-498)
+Philip
 Picking
-Pillsbury (DD-227)
+Pillsbury
 Plunkett
-Pope (DD-225)
-Porter (DD-356)
-Porter (DD-800)
-Power (DD-839)
-Preston (DD-379)
-Preston (DD-795)
+Pope
+Porter
+Porter
+Power
+Preston
+Preston
 Prichett
 Pringle
 Purdy
-Putnam (DD-757)
+Putnam
 Quick
-Radford (DD-446)
-Ralph Talbot
-Rathburne (DD-113)
-Reid (DD-369)
+Radford
+Ralph
+Rathburne
+Reid
 Remey
-Renshaw (DD-499)
-Reuben James (DD-245)
+Renshaw
+Reuben
 Rhind
-Richard B. Anderson
-Richard P. Leary
-Ringgold (DD-500)
-Robert K. Huntington
+Richard
+Richard
+Ringgold
+Robert
 Rodman
-Roe (DD-418)
-Rogers (DD-876)
+Roe
+Rogers
 Rooks
 Roper
-Ross (DD-563)
-Rowan (DD-782)
+Ross
+Rowan
 Rowe
-Rowan (DD-405)
-Russell (DD-414)
-Sampson (DD-394)
-
-Samuel N. Moore
-Sands (DD-243)
+Rowan
+Russell
+Sampson
+Samuel
+Sands
 Sarsfield
-Satterlee (DD-626)
+Satterlee
 Saufley
-Schley (DD-103)
+Schley
 Schenck
 Schroeder
-Selfridge (DD-357)
-Shaw (DD-373)
-Shelton (DD-790)
+Selfridge
+Shaw
+Shelton
 Shields
-Shubrick (DD-639)
-Sigourney (DD-643)
+Shubrick
+Sigourney
 Sigsbee
-Simpson (DD-221)
-Sims (DD-409)
+Simpson
+Sims
 Smalley
-Smith (DD-378)
+Smith
 Soley
-Somers (DD-381)
+Somers
 Southerland
 Spence
-Sproston (DD-577)
+Sproston
 Stack
 Stanly
 Steinaker
 Stembel
-Stephen Potter
-Sterett (DD-407)
-Stevens (DD-479)
-Stevenson (DD-645)
-
-Stewart (DD-224)
-Stockham (DD-683)
-Stockton (DD-646)
+Stephen
+Sterett
+Stevens
+Stevenson
+Stewart
+Stockham
+Stockton
 Stoddard
 Stormes
-Strong (DD-467)
-Strong (DD-758)
-Sturtevant (DD-240)
-The Sullivans (DD-537)
+Strong
+Strong
+Sturtevant
+The
 Swanson
-Talbot (DD-114)
+Talbot
 Tarbell
-Tattnall (DD-125)
+Tattnall
 Taussig
-Taylor (DD-468)
-Terry (DD-513)
-Thatcher (DD-514)
-Thompson (DD-627)
-Thorn (DD-647)
-Tillman (DD-641)
-Tingey (DD-539)
+Taylor
+Terry
+Thatcher
+Thompson
+Thorn
+Tillman
+Tingey
 Trathen
-Trippe (DD-403)
-Truxtun (DD-229)
-Tucker (DD-374)
-Turner (DD-648)
-Turner (DD-834)
-Twiggs (DD-591)
+Trippe
+Truxtun
+Tucker
+Turner
+Turner
+Twiggs
 Twining
 Uhlmann
-Upshur (DD-144)
-Van Valkenburgh
+Upshur
+Van
 Vesole
-Vogelgesang (DD-862)
+Vogelgesang
 Wadleigh
-Wadsworth (DD-516)
-Wainwright (DD-419)
+Wadsworth
+Wainwright
 Waldron
-Walke (DD-416)
-Walke (DD-723)
-Walker (DD-517)
-Wallace L. Lind
+Walke
+Walke
+Walker
+Wallace
 Waller
 Ward
-Warrington (DD-383)
-Warrington (DD-843)
-Waters (DD-115)
+Warrington
+Warrington
+Waters
 Watts
 Wedderburn
-Welles (DD-628)
-Whipple (DD-217)
-Wickes (DD-578)
+Welles
+Whipple
+Wickes
 Wiley
-Wilkes (DD-441)
-Willard Keith (DD-775)
-William D. Porter (DD-579)
+Wilkes
+Willard
+William
 Williamson
 Wilson
-Winslow (DD-359)
+Winslow
 Woodworth
-Woolsey (DD-437)
-Worden (DD-352)
+Woolsey
+Worden
 Wren
-Yarnall (DD-541)
-Young (DD-580)
+Yarnall
+Young
 Zellars
-Alabama (BB-60)
+Alabama
 Arizona
-Arkansas (BB-33)
-Battleship Row
-California (BB-44)
-Colorado (BB-45)
-Idaho (BB-42)
-Indiana (BB-58)
-Iowa (BB-61)
-Maryland (BB-46)
-Massachusetts (BB-59)
-Mississippi (BB-41)
-Missouri (BB-63)
-Nevada (BB-36)
-New Jersey (BB-62)
-New Mexico (BB-40)
-New York (BB-34)
-North Carolina (BB-55)
-Oklahoma (BB-37)
-Pennsylvania (BB-38)
-South Dakota (BB-57)
-Standard-type battleship
-Tennessee (BB-43)
-Texas (BB-35)
-Washington (BB-56)
-West Virginia (BB-48)
-Wisconsin (BB-64)
-Wyoming (BB-32)
-British World War II destroyers
-War Emergency Programme destroyers
-Aaron Ward (DD-132)
-Abbot (DD-184)
-Abel P. Upshur
-Acasta (H09)
-Achates (H12)
-Acheron (H45)
-Active (H14)
-Greek Adrias (L67)
-Afridi (F07)
+Arkansas
+Battleship
+California
+Colorado
+Idaho
+Indiana
+Iowa
+Maryland
+Massachusetts
+Mississippi
+Missouri
+Nevada
+New
+New
+New
+North
+Oklahoma
+Pennsylvania
+South
+Standard-type
+Tennessee
+Texas
+Washington
+West
+Wisconsin
+Wyoming
+British
+War
+Aaron
+Abbot
+Abel
+Acasta
+Achates
+Acheron
+Active
+Greek
+Afridi
 Airedale
 Albrighton
 Aldenham
-Amazon (D39)
-Ambuscade (D38)
-Antelope (H36)
-Anthony (H40)
-Ardent (H41)
-Armada (D14)
-Arrow (H42)
-Ashanti (F51)
-Atherstone (L05)
-Aulick (DD-258)
-Avon Vale
+Amazon
+Ambuscade
+Antelope
+Anthony
+Ardent
+Armada
+Arrow
+Ashanti
+Atherstone
+Aulick
+Avon
 Badsworth
-Bagley (DD-185)
-Bailey (DD-269)
-Barfleur (D80)
-Basilisk (H11)
-Bath (I17)
-Beagle (H30)
-Beaufort (L14)
+Bagley
+Bailey
+Barfleur
+Basilisk
+Bath
+Beagle
+Beaufort
 Bedouin
-Belmont (H46)
-Belvoir (L32)
-Beverley (H64)
-Bicester (L34)
-Blackmore (L43)
-Blanche (H47)
+Belmont
+Belvoir
+Beverley
+Bicester
+Blackmore
+Blanche
 Blankney
 Blean
 Bleasdale
 Blencathra
-Boadicea (H65)
-Boreas (H77)
-Bradford (H72)
+Boadicea
+Boreas
+Bradford
 Bramham
-Branch (DD-197)
-Brazen (H80)
-Brecon (L76)
-Brighton (I08)
-Brilliant (H84)
+Branch
+Brazen
+Brecon
+Brighton
+Brilliant
 Brissenden
-Broadwater (H81)
-Broadway (H90)
-Brocklesby (L42)
-Broke (D83)
-Bulldog (H91)
-Burnham (H82)
-Burwell (H94)
-Buxton (H96)
-Caesar (R07)
-Caldwell (I20)
-Cambrian (R85)
-Cameron (I05)
-Campbeltown (I42)
+Broadwater
+Broadway
+Brocklesby
+Broke
+Bulldog
+Burnham
+Burwell
+Buxton
+Caesar
+Caldwell
+Cambrian
+Cameron
+Campbeltown
 Caprice
-Carron (R30)
-Carysfort (R25)
-Cassandra (R62)
-Castleton (I23)
+Carron
+Carysfort
+Cassandra
+Castleton
 Catterick
-Cavalier (R73)
-Cavendish (R15)
+Cavalier
+Cavendish
 Chaplet
-Charity (R29)
-Charlestown (I21)
-Chelsea (I35)
+Charity
+Charlestown
+Chelsea
 Chequers
-Chesterfield (I28)
+Chesterfield
 Cheviot
-Chevron (R51)
-Chieftain (R36)
-Childers (R91)
+Chevron
+Chieftain
+Childers
 Chivalrous
-Churchill (I45)
-Clare (I14)
-Claxton (DD-140)
-Cleveland (L46)
+Churchill
+Clare
+Claxton
+Cleveland
 Codrington
-Conner (DD-72)
-Constance (R71)
-Cossack (F03)
-Cottesmore (L78)
-Cowell (DD-167)
-Craven (DD-70)
-HMCS Crescent
-Creole (R82)
-Crispin (R68)
-Croome (L62)
+Conner
+Constance
+Cossack
+Cottesmore
+Cowell
+Craven
+HMCS
+Creole
+Crispin
+Croome
 Crowninshield
-Crusader (R20)
-Dainty (H53)
-Daring (H16)
-Decoy (H75)
-Defender (H07)
-Delight (H38)
-Derwent (L83)
-Diamond (H22)
-Diana (H49)
-Duchess (H64)
-Dulverton (L63)
-Duncan (D99)
+Crusader
+Dainty
+Daring
+Decoy
+Defender
+Delight
+Derwent
+Diamond
+Diana
+Duchess
+Dulverton
+Duncan
 Easton
-Echo (H23)
-Eclipse (H08)
-Edwards (DD-265)
+Echo
+Eclipse
+Edwards
 Eggesford
-Eglinton (L87)
-Electra (H27)
-Encounter (H10)
-Eridge (L68)
+Eglinton
+Electra
+Encounter
+Eridge
 Escapade
-Escort (H66)
-Esk (H15)
-Eskimo (F75)
-Evans (DD-78)
-Exmoor (L08)
-Exmoor (L61)
-Exmouth (H02)
-Express (H61)
+Escort
+Esk
+Eskimo
+Evans
+Exmoor
+Exmoor
+Exmouth
+Express
 Fairfax
-Fame (H78)
-Faulknor (H62)
-Fearless (H67)
+Fame
+Faulknor
+Fearless
 Fernie
-Firedrake (H79)
-Foote (DD-169)
-Foresight (H68)
-Forester (H74)
-Fortune (H70)
-Foxhound (H69)
-Fury (H76)
-Gallant (H59)
-Garland (H37)
-Garth (L20)
-Georgetown (I40)
-Gipsy (H63)
-Glowworm (H92)
-Grafton (H89)
-Grenade (H86)
-Grenville (H03)
-Grenville (R97)
-Greyhound (H05)
-Griffin (H31)
-Grove (L77)
-Gurkha (F20)
-Gurkha (G63)
-Haldon (L19)
-Hale (DD-133)
-Hambledon (L37)
-Hamilton (I24)
-Hardy (H87)
-Hardy (R08)
-Harvester (H19)
-Hasty (H24)
-Havant (H32)
-Havelock (H88)
-Havock (H43)
+Firedrake
+Foote
+Foresight
+Forester
+Fortune
+Foxhound
+Fury
+Gallant
+Garland
+Garth
+Georgetown
+Gipsy
+Glowworm
+Grafton
+Grenade
+Grenville
+Grenville
+Greyhound
+Griffin
+Grove
+Gurkha
+Gurkha
+Haldon
+Hale
+Hambledon
+Hamilton
+Hardy
+Hardy
+Harvester
+Hasty
+Havant
+Havelock
+Havock
 Haydon
-Hereward (H93)
-Herndon (DD-198)
-Hero (H99)
-Hesperus (H57)
-Heythrop (L85)
-Highlander (H44)
+Hereward
+Herndon
+Hero
+Hesperus
+Heythrop
+Highlander
 Goathland
 Holcombe
-Hopewell (DD-181)
-Hostile (H55)
-Hotspur (H01)
-Hunt (DD-194)
-Hunter (H35)
-Hurricane (H06)
-Hursley (L84)
-Hurworth (L28)
-Hyperion (H97)
-Icarus (D03)
+Hopewell
+Hostile
+Hotspur
+Hunt
+Hunter
+Hurricane
+Hursley
+Hurworth
+Hyperion
+Icarus
 Ilex
-Imogen (D44)
-Imperial (D09)
+Imogen
+Imperial
 Impulsive
-Inconstant (H49)
+Inconstant
 Inglefield
-Intrepid (D10)
-Isis (D87)
-Ithuriel (H05)
-Ivanhoe (D16)
-Jackal (F22)
-Jaguar (F34)
-Janus (F53)
+Intrepid
+Isis
+Ithuriel
+Ivanhoe
+Jackal
+Jaguar
+Janus
 Javelin
-Jersey (F72)
+Jersey
 Jervis
-Juno (F46)
-Jupiter (F85)
-Kalk (DD-170)
-Greek Kanaris (L53)
+Juno
+Jupiter
+Kalk
+Greek
 Kandahar
-Kashmir (F12)
+Kashmir
 Keith
-Kelly (F01)
-Kelvin (F37)
-Kempenfelt (I18)
-Kempenfelt (R03)
-Keppel (D84)
-Khartoum (F45)
-Kimberley (F50)
-Kingston (F64)
-Kipling (F91)
-ORP Krakowiak (L115)
-ORP Kujawiak (L72)
-French La Combattante
-Laforey (G99)
-Lancaster (G05)
-Lance (G87)
-Laub (DD-263)
-Lauderdale (L95)
-Leamington (G19)
-Ledbury (L90)
-Leeds (G27)
-Legion (G74)
-Lewes (G68)
-Liddesdale (L100)
-Lightning (G55)
-Lincoln (G42)
-Lively (G40)
-Lookout (G32)
-Loyal (G15)
-Ludlow (G57)
-Mackay (D70)
-Maddox (DD-168)
+Kelly
+Kelvin
+Kempenfelt
+Kempenfelt
+Keppel
+Khartoum
+Kimberley
+Kingston
+Kipling
+ORP
+ORP
+French
+Laforey
+Lancaster
+Lance
+Laub
+Lauderdale
+Leamington
+Ledbury
+Leeds
+Legion
+Lewes
+Liddesdale
+Lightning
+Lincoln
+Lively
+Lookout
+Loyal
+Ludlow
+Mackay
+Maddox
 Mahratta
-Malcolm (D19)
-Mansfield (G76)
-Maori (F24)
-Marne (G35)
+Malcolm
+Mansfield
+Maori
+Marne
 Mashona
-Mason (DD-191)
-Matabele (F26)
-Matchless (G52)
-McCalla (DD-253)
-McLanahan (DD-264)
-Meade (DD-274)
-Melbreak (L73)
-Mendip (L60)
-Meteor (G73)
-Greek Miaoulis (L91)
-Middleton (L74)
-Milne (G14)
-Mohawk (F31)
-Montgomery (G95)
-Montrose (D01)
-Musketeer (G86)
-Myngs (R06)
-Newark (G08)
-Newmarket (G47)
-Newport (G54)
-Noble (G84)
-Nubian (F36)
-Oakley (L98)
-Obdurate (G39)
-Obedient (G48)
-Offa (G29)
-Onslaught (G04)
-Onslow (G17)
-Opportune (G80)
-Oribi (G66)
-ORP Orkan (G90)
-Orwell (G98)
-Pakenham (G06)
-Paladin (G69)
-Panther (G41)
-Partridge (G30)
-Pathfinder (G10)
-Penn (G77)
-Penylan (L89)
-Petard (G56)
-Philip (DD-76)
-Greek Pindos
-ORP Piorun (G65)
-Porcupine (G93)
+Mason
+Matabele
+Matchless
+McCalla
+McLanahan
+Meade
+Melbreak
+Mendip
+Meteor
+Greek
+Middleton
+Milne
+Mohawk
+Montgomery
+Montrose
+Musketeer
+Myngs
+Newark
+Newmarket
+Newport
+Noble
+Nubian
+Oakley
+Obdurate
+Obedient
+Offa
+Onslaught
+Onslow
+Opportune
+Oribi
+ORP
+Orwell
+Pakenham
+Paladin
+Panther
+Partridge
+Pathfinder
+Penn
+Penylan
+Petard
+Philip
+Greek
+ORP
+Porcupine
 Puckeridge
 Punjabi
-Pytchley (L92)
-HMAS Quadrant
-Quail (G45)
-Quality (G62)
-HMAS Queenborough
-Quentin (G78)
-HMAS Quiberon (G81)
-HMAS Quickmatch (G92)
-Quilliam (G09)
-Quorn (L66)
-Racehorse (H11)
-Raider (H15)
-Ramsey (G60)
-Rapid (H32)
-Reading (G71)
-Redoubt (H41)
-Relentless (H85)
-Richmond (G88)
-Ringgold (DD-89)
-Ripley (G79)
-Robinson (DD-88)
-Rocket (H92)
-Rockingham (G58)
-Rockwood (L39)
-Rodgers (DD-254)
-Roebuck (H95)
+Pytchley
+HMAS
+Quail
+Quality
+HMAS
+Quentin
+HMAS
+HMAS
+Quilliam
+Quorn
+Racehorse
+Raider
+Ramsey
+Rapid
+Reading
+Redoubt
+Relentless
+Richmond
+Ringgold
+Ripley
+Robinson
+Rocket
+Rockingham
+Rockwood
+Rodgers
+Roebuck
 Rotherham
-Roxborough (I07)
-Sabre (H18)
-Saladin (1919)
-Salisbury (I52)
-Sardonyx (1919)
-Satterlee (DD-190)
-Saumarez (G12)
-Savage (G20)
-Scorpion (G72)
-Scourge (G01)
-Scout (1918)
-Serapis (G94)
-Shark (G03)
-Sherwood (I80)
-Shubrick (DD-268)
-Sigourney (DD-81)
-Sikh (F82)
-Sirdar (1918)
-Skate (1917)
-ORP Ślązak (L26)
-Somali (F33)
-Southwold (L10)
-Sparrowhawk (1918)
-St. Albans (I15)
-St. Mary's (I12)
-Stanley (I73)
-Steadfast (1918)
+Roxborough
+Sabre
+Saladin
+Salisbury
+Sardonyx
+Satterlee
+Saumarez
+Savage
+Scorpion
+Scourge
+Scout
+Serapis
+Shark
+Sherwood
+Shubrick
+Sigourney
+Sikh
+Sirdar
+Skate
+ORP
+Somali
+Southwold
+Sparrowhawk
+St.
+St.
+Stanley
+Steadfast
 Stevenstone
-Stockton (DD-73)
-Stord (G26)
+Stockton
+Stord
 Stronghold
-Sturdy (1919)
-Success (G26)
-Svenner (G03)
-Swasey (DD-273)
-Swift (G46)
+Sturdy
+Success
+Svenner
+Swasey
+Swift
 Talybont
-Tanatside (L69)
-Tartar (F43)
-Teazer (R23)
-Tenacious (R45)
-Tenedos (H04)
-Termagant (R89)
-Terpsichore (R33)
-Tetcott (L99)
-Thanet (H29)
-Thomas (DD-182)
-Tillman (DD-135)
-Tintagel (1918)
-HNLMS Tjerk Hiddes (G16)
-Troubridge (R00)
-Tumult (R11)
-Tuscan (R56)
-Twiggs (DD-127)
-Tynedale (L96)
-Tyrian (R67)
-Ulster (R83)
-Ulysses (R69)
-Undaunted (R53)
-Undine (R42)
-Urania (R05)
-Urchin (R99)
-Ursa (R22)
-Valentine (L69)
-Valentine (R17)
-Valorous (L00)
-HNLMS Van Galen (G84)
-Vanessa (D29)
-Vanity (D28)
+Tanatside
+Tartar
+Teazer
+Tenacious
+Tenedos
+Termagant
+Terpsichore
+Tetcott
+Thanet
+Thomas
+Tillman
+Tintagel
+HNLMS
+Troubridge
+Tumult
+Tuscan
+Twiggs
+Tynedale
+Tyrian
+Ulster
+Ulysses
+Undaunted
+Undine
+Urania
+Urchin
+Ursa
+Valentine
+Valentine
+Valorous
+HNLMS
+Vanessa
+Vanity
 Vanoc
 Vanquisher
-Vansittart (D64)
-Vega (L41)
-Velox (D34)
+Vansittart
+Vega
+Velox
 Venetia
 Venomous
-Venus (R50)
-Verdun (L93)
-Verity (D63)
-Versatile (D32)
-Verulam (R28)
+Venus
+Verdun
+Verity
+Versatile
+Verulam
 Vesper
-Veteran (D72)
-Viceroy (D91)
-Vidette (D48)
-Vigilant (R93)
-Vimiera (1917)
+Veteran
+Viceroy
+Vidette
+Vigilant
+Vimiera
 Vimy
-Virago (R75)
-Viscount (D92)
-Vivacious (D36)
-Vivien (L33)
-Vixen (R64)
-Volage (R41)
-Volunteer (D71)
-Vortigern (D37)
-Wager (R98)
-Wakeful (H88)
-Wakeful (1943)
+Virago
+Viscount
+Vivacious
+Vivien
+Vixen
+Volage
+Volunteer
+Vortigern
+Wager
+Wakeful
+Wakeful
 Walker
 Walpole
-Wanderer (D74)
-Warwick (D25)
-Watchman (D26)
-Welborn C. Wood
-Welles (DD-257)
-Wells (I95)
+Wanderer
+Warwick
+Watchman
+Welborn
+Welles
+Wells
 Wensleydale
-Wessex (R78)
-Wessex (D43)
-Westcott (D47)
-Westminster (L40)
-Whaddon (L45)
-Whelp (R37)
-Whirlwind (D30)
-Whirlwind (R87)
+Wessex
+Wessex
+Westcott
+Westminster
+Whaddon
+Whelp
+Whirlwind
+Whirlwind
 Whitehall
-Whitley (L23)
-Whitshed (D77)
-Wickes (DD-75)
-Wild Swan (D62)
-Winchester (L55)
-Windsor (D42)
+Whitley
+Whitshed
+Wickes
+Wild
+Winchester
+Windsor
 Wishart
-Witch (D89)
-Witherington (D76)
-Wivern (D66)
-Wizard (R72)
+Witch
+Witherington
+Wivern
+Wizard
 Wolsey
-Wolverine (D78)
-Worcester (D96)
-Wrangler (R48)
-Wren (D88)
+Wolverine
+Worcester
+Wrangler
+Wren
 Wrestler
-Wryneck (D21)
-Yarnall (DD-143)
-Zambesi (R66)
-Zealous (R39)
-Zebra (R81)
-Zenith (R95)
-Zephyr (R19)
+Wryneck
+Yarnall
+Zambesi
+Zealous
+Zebra
+Zenith
+Zephyr
 Zest
-Zetland (L59)
+Zetland
 Zodiac
-Zulu (F18)
-Anson (79)
-Barham (04)
-Centurion (1911)
-Duke of York (17)
-Howe (32)
-Iron Duke (1912)
-King George V (41)
+Zulu
+Anson
+Barham
+Centurion
+Duke
+Howe
+Iron
+King
 Malaya
-Nelson (28)
-Prince of Wales (53)
-Queen Elizabeth (1913)
-Ramillies (07)
-Resolution (09)
-Revenge (06)
-Rodney (29)
-Royal Oak (08)
-Royal Sovereign (05)
-Valiant (1914)
-Warspite (03)
-1942 Design Light Fleet Carrier
-
-Puncher (D79)
-Shah (D21)
-Slinger (D26)
-Smiter (D55)
-Speaker (D90)
-Trouncer (D85)
-Trumpeter (D09)
-Albion (R07)
-Archer (D78)
-Argus (I49)
-Ark Royal (91)
-Ark Royal (1914)
-Attacker (D02)
+Nelson
+Prince
+Queen
+Ramillies
+Resolution
+Revenge
+Rodney
+Royal
+Royal
+Valiant
+Warspite
+1942
+Puncher
+Shah
+Slinger
+Smiter
+Speaker
+Trouncer
+Trumpeter
+Albion
+Archer
+Argus
+Ark
+Ark
+Attacker
 Audacity
-Avenger (D14)
-Battler (D18)
-Biter (D97)
-HMCS Bonaventure
-Bulwark (R08)
-Campania (D48)
-Centaur (R06)
-Chaser (D32)
-Colossus (R15)
-Courageous (50)
-Dasher (D37)
-Eagle (1918)
-MV Empire MacAlpine
-MV Empire MacAndrew
-MV Empire MacCallum
-MV Empire MacKendrick
-MV Empire MacRae
-Fencer (D64)
-Formidable (67)
-Furious (47)
+Avenger
+Battler
+Biter
+HMCS
+Bulwark
+Campania
+Centaur
+Chaser
+Colossus
+Courageous
+Dasher
+Eagle
+MV
+MV
+MV
+MV
+MV
+Fencer
+Formidable
+Furious
 Glorious
-Glory (R62)
-Project Habakkuk
-Hermes (95)
-Hermes (R12)
-Hunter (D80)
-Illustrious (87)
-Implacable (R86)
-Indefatigable (R10)
-Indomitable (92)
-HMCS Magnificent
-Nairana (D05)
-Patroller (D07)
-Perseus (R51)
-Pioneer (R76)
-Pretoria Castle (F61)
-Pursuer (D73)
-Ravager (D70)
-Reaper (D82)
-Searcher (D40)
-Stalker (D91)
-Striker (D12)
-HMAS Sydney (R17)
-Tracker (D24)
-Unicorn (I72)
-Venerable (R63)
-Vengeance (R71)
-Victorious (R38)
-INS Vikrant (1961)
-Vindex (D15)
-Bergen (F301)
-Narvik (F304)
-Oslo (F300)
-Stavanger (F303)
-Trondheim (F302)
-Fridtjof Nansen (F310)
-Helge Ingstad (F313)
-Otto Sverdrup (F312)
-Roald Amundsen
-Thor Heyerdahl
+Glory
+Project
+Hermes
+Hermes
+Hunter
+Illustrious
+Implacable
+Indefatigable
+Indomitable
+HMCS
+Nairana
+Patroller
+Perseus
+Pioneer
+Pretoria
+Pursuer
+Ravager
+Reaper
+Searcher
+Stalker
+Striker
+HMAS
+Tracker
+Unicorn
+Venerable
+Vengeance
+Victorious
+INS
+Vindex
+Bergen
+Narvik
+Oslo
+Stavanger
+Trondheim
+Fridtjof
+Helge
+Otto
+Roald
+Thor
