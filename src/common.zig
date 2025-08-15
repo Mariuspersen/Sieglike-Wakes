@@ -1,8 +1,12 @@
 const random = @import("random.zig");
+const std = @import("std");
+const turret = @import("turret.zig");
+const builtin = std.builtin;
+
 
 pub const DMG_T = u32;
 pub const WEIGHT_T = u32;
-
+pub const ARMOR_T = requiredType(turret.max().damage());
 
 pub const TUPLET_NAMING = [_][]const u8{
     "Single",
@@ -55,7 +59,6 @@ pub const RARITY = enum(u3) {
 };
 
 pub fn oneMoreThan(T: type) type {
-    const builtin = @import("std").builtin;
     const info = @typeInfo(T);
     const newT = builtin.Type{ .int = .{
         .bits = info.int.bits + 1,
@@ -65,10 +68,18 @@ pub fn oneMoreThan(T: type) type {
 }
 
 pub fn doubleType(T: type) type {
-    const builtin = @import("std").builtin;
     const info = @typeInfo(T);
     const newT = builtin.Type{ .int = .{
         .bits = info.int.bits * 2,
+        .signedness = info.int.signedness,
+    } };
+    return @Type(newT);
+}
+
+pub fn requiredType(number: anytype) type {
+    const info = @typeInfo(@TypeOf(number));
+    const newT = builtin.Type{ .int = .{
+        .bits = std.math.log2(number) + 1,
         .signedness = info.int.signedness,
     } };
     return @Type(newT);

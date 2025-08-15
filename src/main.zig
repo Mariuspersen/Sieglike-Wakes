@@ -10,7 +10,10 @@ pub fn main() !void {
     const new_turret = turret.gacha();
     try new_turret.display(stdout);
     try stdout.print("\tDamage: {d}\n", .{new_turret.damage()});
-    const new_ship = ship.gacha();
+    var new_ship = ship.gacha();
+    new_ship.add_equipment(.{.turret = new_turret}) catch {
+        try stdout.print("Ship doesn't have the carrying capacity to equip this\n", .{});
+        try stdout.print("Capacity: {d} => Turret Weight {d}\n", .{new_ship.carry_limit(),new_turret.weight()});
+    };
     try new_ship.display(stdout);
-    try stdout.print("{any}", .{new_ship});
 }
