@@ -7,6 +7,7 @@ const builtin = std.builtin;
 pub const DMG_T = u32;
 pub const WEIGHT_T = u32;
 pub const ARMOR_T = requiredType(turret.max().damage());
+pub const alloc = std.heap.page_allocator;
 
 pub const TUPLET_NAMING = [_][]const u8{
     "Single",

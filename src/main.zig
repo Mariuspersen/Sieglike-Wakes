@@ -1,19 +1,22 @@
 const std = @import("std");
 const random = @import("random.zig");
 const common = @import("common.zig");
-const turret = @import("turret.zig");
-const ship = @import("ship.zig");
-
+const Turret = @import("turret.zig");
+const Ship = @import("ship.zig");
+const Fleet = @import("fleet.zig");
+const Battle = @import("battle.zig");
 
 pub fn main() !void {
-    const stdout = std.io.getStdOut().writer();
-    const new_turret = turret.gacha();
-    try new_turret.display(stdout);
-    try stdout.print("\tDamage: {d}\n", .{new_turret.damage()});
-    var new_ship = ship.gacha();
-    new_ship.add_equipment(.{.turret = new_turret}) catch {
-        try stdout.print("Ship doesn't have the carrying capacity to equip this\n", .{});
-        try stdout.print("Capacity: {d} => Turret Weight {d}\n", .{new_ship.carry_limit(),new_turret.weight()});
-    };
-    try new_ship.display(stdout);
+    var stdout_buffer: [1024]u8 = undefined;
+    var stdout_writer = std.fs.File.stdout().writer(&stdout_buffer);
+    const stdout = &stdout_writer.interface;
+    defer stdout.flush() catch {};
+    var fleet1 = Fleet.randomly_populate();
+    var fleet2 = Fleet.randomly_populate();
+    try stdout.writeAll("Player Fleet\n");
+    try fleet1.display_list_ships(stdout);
+    try stdout.writeAll("Enenmy Fleet\n");
+    try fleet2.display_list_ships(stdout);
+    var battle = Battle.init(&fleet1, &fleet2);
+    try battle.battle(stdout);
 }

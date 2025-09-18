@@ -20,14 +20,13 @@ pub fn random(T: type) T {
 
 pub fn range(T: type, low: T, high: T) T {
     const info = @typeInfo(T);
+    var rng = seededRNG();
     switch (info) {
         .float => {
-            var rng = seededRNG();
             const number = std.Random.float(rng.random(), f32);
             return std.math.lerp(low, high, number);
         },
         .int => {
-            var rng = seededRNG();
             return std.Random.intRangeAtMost(
                 rng.random(),
                 T,

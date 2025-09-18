@@ -2,6 +2,8 @@ const Self = @This();
 const random = @import("random.zig");
 const common = @import("common.zig");
 const std = @import("std");
+const Writer = std.io.Writer;
+
 
 const BARREL_T = u2;
 const ONEMORE_T = common.oneMoreThan(BARREL_T);
@@ -40,7 +42,7 @@ pub fn max() Self {
 test "maxTest" {
     const max_possible = Self.max();
     const dmg = max_possible.damage();
-    std.debug.print("MAX DMG => {d}, Bits required: {d}\n", .{dmg, std.math.log2(dmg) + 1});
+    std.debug.print("MAX DMG => {d}, Bits required: {d}\n", .{ dmg, std.math.log2(dmg) + 1 });
 }
 
 pub fn damage(self: *const Self) DMG_T {
@@ -71,6 +73,6 @@ test "Turret Weight Test" {
     std.debug.print("MAX WEIGHT => {d}\n", .{dmg});
 }
 
-pub fn display(self: *const Self, writer: anytype) !void {
+pub fn display(self: *const Self, writer: *Writer) !void {
     try writer.print("{s} {d}mm/{d} Caliber {s} Turret", .{ self.rarity.display(), self.bore, self.caliber, common.TUPLET_NAMING[self.barrels] });
 }

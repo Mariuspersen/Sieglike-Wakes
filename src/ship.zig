@@ -4,6 +4,9 @@ const common = @import("common.zig");
 const Turret = @import("turret.zig");
 const std = @import("std");
 
+const Writer = std.io.Writer;
+
+
 const names = @embedFile("ships.txt");
 
 const Equipment = union(enum) {
@@ -51,7 +54,7 @@ pub const CLASS_LIST = [_]Class{
 
 name: []const u8,
 HP: HP_T,
-armour: HP_T,
+armour: common.ARMOR_T,
 equipment: [EQUIP_MAX_LEN]Equipment,
 class: Class,
 length: DOUBLESIZE_T,
@@ -102,6 +105,16 @@ pub fn gacha() Self {
     };
 }
 
+pub fn select_random_equipment(self: *Self) !Equipment {
+    const equipment_index = random.range(usize, 0, self.equipment.len - 1);
+    const equipment = self.equipment[equipment_index];
+
+    return switch (equipment) {
+        .none => error.none_equipment,
+        else => equipment,
+    };
+}
+
 pub fn add_equipment(self: *Self, equipment: Equipment) !void {
     var current_capacity: WEIGHT_T = 0;
     for (self.equipment) |e| {
@@ -130,7 +143,11 @@ pub fn add_equipment(self: *Self, equipment: Equipment) !void {
     }
 }
 
-pub fn display(self: *const Self, writer: anytype) !void {
+pub fn display_name_short(self: *const Self, writer: *Writer) !void {
+    try writer.print("{s} {s}", .{ self.class.short, self.name[0 .. self.name.len - 1] });
+}
+
+pub fn display(self: *const Self, writer: *Writer) !void {
     const lbeam = beam(self.length);
     const ldraft = draft(self.length);
     try writer.print("{s} {s} {s}\n", .{ self.rarity.display(), self.class.long, self.name });
